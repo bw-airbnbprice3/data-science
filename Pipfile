@@ -10,7 +10,7 @@ flask = "*"
 gunicorn = "*"
 scikit-learn = "==0.21.3"
 lightgbm = "==2.3.0"
-joblib = "==0.14.0"
+joblib = "==1.2.0"
 pandas = "*"
 
 [requires]
